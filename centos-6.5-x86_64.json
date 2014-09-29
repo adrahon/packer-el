@@ -14,7 +14,7 @@
       "type": "qemu",
       "iso_checksum": "0d9dc37b5dd4befa1c440d2174e88a87",
       "iso_checksum_type": "md5",
-      "iso_url": "file:///home/adrahon/Downloads/CentOS-6.5-x86_64-minimal.iso",
+      "iso_url": "http://mirror.rackspace.com/CentOS/6.5/isos/x86_64/CentOS-6.5-x86_64-minimal.iso",
       "output_directory": "centos-65-cloud-kvm",
       "ssh_wait_timeout": "30s",
       "shutdown_command": "shutdown -P now",
