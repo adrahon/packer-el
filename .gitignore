@@ -2,3 +2,5 @@
 .bundle/
 .vagrant/
 packer_cache/
+Notes.md
+refs
